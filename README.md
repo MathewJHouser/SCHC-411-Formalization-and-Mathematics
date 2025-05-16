@@ -1,2 +1,2 @@
 # Lean4
-Lean4 Files
+Lean is a proof assistant and a functional programming language. It is based on the calculus of constructions with inductive types. Formal verification involves the use of logical and computational methods to establish claims that are expressed in precise mathematical terms. The Lean Theorem Prover aims to bridge the gap between interactive and automated theorem proving, by situating automated tools and methods in a framework that supports user interaction and the construction of fully specified axiomatic proofs.
